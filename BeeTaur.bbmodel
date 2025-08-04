@@ -2,7 +2,7 @@
 	"meta": {
 		"format_version": "4.10",
 		"model_format": "figura",
-		"box_uv": true
+		"box_uv": false
 	},
 	"visible_box": [1, 1, 0],
 	"variable_placeholders": "",
@@ -16,7 +16,7 @@
 	"elements": [
 		{
 			"name": "Head",
-			"box_uv": true,
+			"box_uv": false,
 			"rescale": false,
 			"locked": false,
 			"light_emission": 0,
@@ -58,7 +58,7 @@
 		},
 		{
 			"name": "Hat Layer",
-			"box_uv": true,
+			"box_uv": false,
 			"rescale": false,
 			"locked": false,
 			"light_emission": 0,
@@ -102,7 +102,7 @@
 		},
 		{
 			"name": "Body",
-			"box_uv": true,
+			"box_uv": false,
 			"rescale": false,
 			"locked": false,
 			"light_emission": 0,
@@ -145,7 +145,7 @@
 		},
 		{
 			"name": "Body Layer",
-			"box_uv": true,
+			"box_uv": false,
 			"rescale": false,
 			"locked": false,
 			"light_emission": 0,
@@ -190,7 +190,7 @@
 		},
 		{
 			"name": "Right Arm",
-			"box_uv": true,
+			"box_uv": false,
 			"rescale": false,
 			"locked": false,
 			"light_emission": 0,
@@ -233,7 +233,7 @@
 		},
 		{
 			"name": "Right Arm Layer",
-			"box_uv": true,
+			"box_uv": false,
 			"rescale": false,
 			"locked": false,
 			"light_emission": 0,
@@ -277,7 +277,7 @@
 		},
 		{
 			"name": "Left Arm",
-			"box_uv": true,
+			"box_uv": false,
 			"rescale": false,
 			"locked": false,
 			"light_emission": 0,
@@ -320,7 +320,7 @@
 		},
 		{
 			"name": "Left Arm Layer",
-			"box_uv": true,
+			"box_uv": false,
 			"rescale": false,
 			"locked": false,
 			"light_emission": 0,
