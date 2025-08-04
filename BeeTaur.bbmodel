@@ -562,7 +562,7 @@
 			"from": [0, 12, 12.25],
 			"to": [0, 13.2, 14.65],
 			"autouv": 0,
-			"color": 1,
+			"color": 0,
 			"origin": [0.6, 6, 6.25],
 			"uv_offset": [26, 7],
 			"faces": {
@@ -605,7 +605,7 @@
 			"from": [1.8, 16.8, 2.65],
 			"to": [12.6, 16.8, 9.85],
 			"autouv": 0,
-			"color": 2,
+			"color": 0,
 			"origin": [0.6, 6, 6.25],
 			"uv_offset": [0, 18],
 			"faces": {
@@ -648,7 +648,7 @@
 			"from": [-12.6, 16.8, 2.65],
 			"to": [-1.8, 16.8, 9.85],
 			"autouv": 0,
-			"color": 3,
+			"color": 0,
 			"origin": [0.6, 6, 6.25],
 			"uv_offset": [9, 24],
 			"faces": {
@@ -691,7 +691,7 @@
 			"from": [-4.2, 6, 3.85],
 			"to": [4.2, 8.4, 3.85],
 			"autouv": 0,
-			"color": 4,
+			"color": 0,
 			"origin": [0.6, 6, 6.25],
 			"uv_offset": [26, 1],
 			"faces": {
@@ -734,7 +734,7 @@
 			"from": [-4.2, 6, 6.25],
 			"to": [4.2, 8.4, 6.25],
 			"autouv": 0,
-			"color": 5,
+			"color": 0,
 			"origin": [0.6, 6, 6.25],
 			"uv_offset": [26, 3],
 			"faces": {
@@ -777,7 +777,7 @@
 			"from": [-4.2, 6, 8.65],
 			"to": [4.2, 8.4, 8.65],
 			"autouv": 0,
-			"color": 6,
+			"color": 0,
 			"origin": [0.6, 6, 6.25],
 			"uv_offset": [26, 5],
 			"faces": {
@@ -915,7 +915,7 @@
 										{
 											"name": "stinger",
 											"origin": [0, 13.2, 7.45],
-											"color": 1,
+											"color": 0,
 											"uuid": "3b00e723-5024-6da0-2c0e-991e0f6f17b2",
 											"export": true,
 											"mirror_uv": false,
@@ -930,7 +930,7 @@
 											"name": "rightwing_bone",
 											"origin": [1.8, 16.8, 2.65],
 											"rotation": [-15, 15, 0],
-											"color": 2,
+											"color": 0,
 											"uuid": "23d74f72-ed74-de0f-91e1-942500a0eaaa",
 											"export": true,
 											"mirror_uv": false,
@@ -945,7 +945,7 @@
 											"name": "leftwing_bone",
 											"origin": [-1.8, 16.8, 2.65],
 											"rotation": [-15, -15, 0],
-											"color": 3,
+											"color": 0,
 											"uuid": "fa524c17-5df8-ae4f-c36c-c3b97d8fadee",
 											"export": true,
 											"mirror_uv": false,
@@ -959,7 +959,7 @@
 										{
 											"name": "leg_front",
 											"origin": [-1.8, 8.4, 3.85],
-											"color": 4,
+											"color": 0,
 											"uuid": "138a34c3-c5b0-93c3-ab79-f342a5b67395",
 											"export": true,
 											"mirror_uv": false,
@@ -973,7 +973,7 @@
 										{
 											"name": "leg_mid",
 											"origin": [-1.8, 8.4, 6.25],
-											"color": 5,
+											"color": 0,
 											"uuid": "9fbbaaf7-73a2-8808-47f1-0f6bad3590de",
 											"export": true,
 											"mirror_uv": false,
@@ -987,7 +987,7 @@
 										{
 											"name": "leg_back",
 											"origin": [-1.8, 8.4, 8.65],
-											"color": 6,
+											"color": 0,
 											"uuid": "98df4161-2e2f-e421-70d7-ed29bdfcd122",
 											"export": true,
 											"mirror_uv": false,
