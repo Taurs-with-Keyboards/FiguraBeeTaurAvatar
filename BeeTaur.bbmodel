@@ -374,7 +374,7 @@
 			"to": [-3, 34.5, -1.5],
 			"autouv": 0,
 			"color": 0,
-			"origin": [0, 21, 6],
+			"origin": [0, 0, 0],
 			"uv_offset": [2, 0],
 			"faces": {
 				"north": {
@@ -417,7 +417,7 @@
 			"to": [3, 34.5, -1.5],
 			"autouv": 0,
 			"color": 0,
-			"origin": [0, 21, 6],
+			"origin": [0, 0, 0],
 			"uv_offset": [2, 3],
 			"faces": {
 				"north": {
@@ -511,7 +511,7 @@
 			"to": [4.2, 16.8, 12.25],
 			"autouv": 0,
 			"color": 0,
-			"origin": [0.6, 6, 6.25],
+			"origin": [0, 0, 0],
 			"faces": {
 				"north": {
 					"uv": [10, 10, 17, 17],
@@ -563,7 +563,7 @@
 			"to": [0, 13.2, 14.65],
 			"autouv": 0,
 			"color": 0,
-			"origin": [0.6, 6, 6.25],
+			"origin": [0, 0, 0],
 			"uv_offset": [26, 7],
 			"faces": {
 				"north": {
@@ -606,7 +606,7 @@
 			"to": [12.6, 16.8, 9.85],
 			"autouv": 0,
 			"color": 0,
-			"origin": [0.6, 6, 6.25],
+			"origin": [0, 0, 0],
 			"uv_offset": [0, 18],
 			"faces": {
 				"north": {
@@ -649,7 +649,7 @@
 			"to": [-1.8, 16.8, 9.85],
 			"autouv": 0,
 			"color": 0,
-			"origin": [0.6, 6, 6.25],
+			"origin": [0, 0, 0],
 			"uv_offset": [9, 24],
 			"faces": {
 				"north": {
@@ -692,7 +692,7 @@
 			"to": [4.2, 8.4, 3.85],
 			"autouv": 0,
 			"color": 0,
-			"origin": [0.6, 6, 6.25],
+			"origin": [0, 0, 0],
 			"uv_offset": [26, 1],
 			"faces": {
 				"north": {
@@ -735,7 +735,7 @@
 			"to": [4.2, 8.4, 6.25],
 			"autouv": 0,
 			"color": 0,
-			"origin": [0.6, 6, 6.25],
+			"origin": [0, 0, 0],
 			"uv_offset": [26, 3],
 			"faces": {
 				"north": {
@@ -778,7 +778,7 @@
 			"to": [4.2, 8.4, 8.65],
 			"autouv": 0,
 			"color": 0,
-			"origin": [0.6, 6, 6.25],
+			"origin": [0, 0, 0],
 			"uv_offset": [26, 5],
 			"faces": {
 				"north": {
@@ -841,7 +841,7 @@
 						"7d0523f5-eae6-b1b4-8111-2e06e681859d",
 						{
 							"name": "Antennas",
-							"origin": [0, 22, 6],
+							"origin": [0, 0, 0],
 							"color": 0,
 							"uuid": "4541b707-5a18-ed12-85e5-5bea8bc5efc1",
 							"export": true,
@@ -914,7 +914,7 @@
 										"cdb43665-5382-d7b6-f5b8-300a34e19c2f",
 										{
 											"name": "stinger",
-											"origin": [0, 13.2, 7.45],
+											"origin": [0, 0, 0],
 											"color": 0,
 											"uuid": "3b00e723-5024-6da0-2c0e-991e0f6f17b2",
 											"export": true,
@@ -958,7 +958,7 @@
 										},
 										{
 											"name": "leg_front",
-											"origin": [-1.8, 8.4, 3.85],
+											"origin": [0, 0, 0],
 											"color": 0,
 											"uuid": "138a34c3-c5b0-93c3-ab79-f342a5b67395",
 											"export": true,
@@ -972,7 +972,7 @@
 										},
 										{
 											"name": "leg_mid",
-											"origin": [-1.8, 8.4, 6.25],
+											"origin": [0, 0, 0],
 											"color": 0,
 											"uuid": "9fbbaaf7-73a2-8808-47f1-0f6bad3590de",
 											"export": true,
@@ -986,7 +986,7 @@
 										},
 										{
 											"name": "leg_back",
-											"origin": [-1.8, 8.4, 8.65],
+											"origin": [0, 0, 0],
 											"color": 0,
 											"uuid": "98df4161-2e2f-e421-70d7-ed29bdfcd122",
 											"export": true,
