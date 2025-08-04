@@ -542,16 +542,6 @@
 			"uuid": "7404a752-60c5-bf3c-49d7-b52379d3786d"
 		},
 		{
-			"name": "lead",
-			"position": [0.6, 10.8, 5.05],
-			"rotation": [0, 0, 0],
-			"ignore_inherited_scale": false,
-			"visibility": true,
-			"locked": false,
-			"uuid": "cdb43665-5382-d7b6-f5b8-300a34e19c2f",
-			"type": "locator"
-		},
-		{
 			"name": "stinger",
 			"box_uv": false,
 			"rescale": false,
@@ -912,7 +902,6 @@
 									"selected": false,
 									"children": [
 										"7404a752-60c5-bf3c-49d7-b52379d3786d",
-										"cdb43665-5382-d7b6-f5b8-300a34e19c2f",
 										{
 											"name": "stinger",
 											"origin": [0, 0, 0],
