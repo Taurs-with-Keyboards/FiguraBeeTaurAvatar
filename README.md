@@ -4,7 +4,7 @@
 # IF YOU ARE READING THIS, YOU CONCEDE TO THE FOLLOWING:
 - This avatar is not ready for general use. You will not have the expectations of a full release until it is version 1.0.0 or above.
 - Issues ARE expected, and will be met with respect, and should be reported __IF__ they have not already been reported.
-  - Issues should be reported to `zephyr_florasplash_` or posted in the repos issue section.
+  - Issues should be posted in the [repo's issue section][issues] or reported to [ZephyrFlorasplash].
   - This avatar is not actively being maintained by Total. Do not report issues to Total.
 
 ## If You do not abide by the former bullet points, you agree to the following:
@@ -22,7 +22,13 @@
 - Section under construction
 
 ### Origin Datapack:
-- [Bee Taur Origin](https://github.com/Taurs-with-Keyboards/BeeTaurOrigin) (Created by PoolloverNathan)
+- [CursedTaurOrigins] (Created by [PoolloverNathan])
 
 ## Features
 Section under construction
+
+
+[ZephyrFlorasplash]: https://discord.com/users/781639157935505418
+[PoolloverNathan]: https://discord.com/users/402104961812660226
+[issues]: /../../issues
+[CursedTaurOrigins]: https://github.com/Taurs-with-Keyboards/CursedTaurOrigins
